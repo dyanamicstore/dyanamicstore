@@ -1,0 +1,21 @@
+*{
+    margin:40px;
+    padding:50px;
+    box-sizing: border-box;
+    font-family:"poppins",sans-serif;
+}
+.btn{
+    width:50%;
+    height:100px;
+    background-color: greenyellow;
+    border: 20px;
+    outline: 30px;
+    border-radius: 0px;
+    box-shadow: 0 0px 60px greenyellow;
+    cursor:pointer;
+    font-size:20px;
+    color:black;
+    font-weight: 600;
+    align-items: center;
+    text-align: center;
+}
